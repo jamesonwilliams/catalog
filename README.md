@@ -2540,7 +2540,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - hbfm.quote_uri_hash
    ```
 </details>
-<details><summary><b><a href="https://gitlab.com/WillDaSilva/markdown_grid_tables">Markdown Grid Tables</a></b>  - 🥉5 ·  ⭐ 1 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/32/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><be><a href="https://python-markdown.github.io/">Python-Markdown</a> <a href="https://python-markdown.github.io/extensions/api/">extension</a>..</summary>
+<details><summary><b><a href="https://gitlab.com/WillDaSilva/markdown_grid_tables">Markdown Grid Tables</a></b>  - 🥉5 ·  ⭐ 1 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/32/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br><a href="https://python-markdown.github.io/">Python-Markdown</a> <a href="https://python-markdown.github.io/extensions/api/">extension</a>..</summary>
 
 - [PyPi](https://pypi.org/project/markdown-grid-tables) (📥 4.1K / month):
 	```
